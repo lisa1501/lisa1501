@@ -39,7 +39,6 @@
 
 
 
-
 [website]: https://halisa-personal-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/lisa-s-a155a5202/
 [portfolio]: https://halisa-personal-portfolio.netlify.app/
