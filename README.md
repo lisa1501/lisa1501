@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( Uyghur, English, Mandarin)
+- ⚡ Fun fact: I speak 4 languages ( Uyghur,Italian, English, Mandarin)
 
 
 ### Talk with me, I am kinda awesome:
