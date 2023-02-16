@@ -1,6 +1,6 @@
 ### Hello World, I'm Halisa 👋
 
- <img align="right" alt="GIF" src="https://drive.google.com/drive/u/0/recent" />
+ <img align="right" alt="GIF" src="https://github.com/lisa1501/lisa1501/blob/main/images/Screenshot%202023-02-15%20at%2010.01.47%20PM.png" />
 
 
 ## I'm a Developer, Creator!!
