@@ -15,7 +15,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="holisitc_developer | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][leetcode]
 <br />
 
 ### Languages and Tools:
@@ -42,4 +42,6 @@
 [website]: https://halisa-personal-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/lisa-s-a155a5202/
 [portfolio]: https://halisa-portfolio.netlify.app/
+[leetcode]: https://leetcode.com/Halisai/
+
 
