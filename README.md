@@ -1,5 +1,5 @@
 ### Hello World, I'm Halisa 👋
-
+- 😄 Pronouns: She/Her
  <img align="right" alt="GIF" src="https://github.com/lisa1501/lisa1501/blob/main/images/Screenshot%202023-02-15%20at%2010.01.47%20PM.png" />
 
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+
 - ⚡ Fun fact: I speak 4 languages ( Uyghur,Italian, English, Mandarin)
 
 
