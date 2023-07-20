@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 
-- ⚡ Fun fact: I speak 4 languages ( Uyghur,Italian, English, Mandarin)
+- ⚡ Fun fact: I speak 4 languages ( Uyghur, Italian, English, Mandarin)
 
 
 ### Talk with me, I am kinda awesome:
