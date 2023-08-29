@@ -3,7 +3,7 @@
 
 
 ## I'm a full stack developer!
-- ✍ You can find my projects here 
+- ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my project.
 - 🌱 I’m currently learning [COMPLETE INTRO TO REALTIME]
 - 👯 I’m looking to collaborate on open source
