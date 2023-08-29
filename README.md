@@ -5,7 +5,7 @@
 ## I'm a full stack developer!
 - ✍ You can find my projects here 
 - 🔭 I’m currently working on my project.
-- 🌱 I’m currently learning COMPLETE INTRO TO REALTIME[https://btholt.github.io/complete-intro-to-realtime/]
+- 🌱 I’m currently learning [COMPLETE INTRO TO REALTIME]
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 
@@ -52,5 +52,6 @@
 [linkedin]: https://www.linkedin.com/in/lisa-s-a155a5202/
 [portfolio]: https://halisa-portfolio.netlify.app/
 [leetcode]: https://leetcode.com/Halisai/
+[COMPLETE INTRO TO REALTIME]: https://btholt.github.io/complete-intro-to-realtime/
 
 
