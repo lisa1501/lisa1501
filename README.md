@@ -4,7 +4,7 @@
 
 ## I'm a full stack developer!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my project.
+- 🔭 I’m currently working on my [project].
 - 🌱 I’m currently learning [COMPLETE INTRO TO REALTIME]
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -53,5 +53,6 @@
 [portfolio]: https://halisa-portfolio.netlify.app/
 [leetcode]: https://leetcode.com/Halisai/
 [COMPLETE INTRO TO REALTIME]: https://btholt.github.io/complete-intro-to-realtime/
+[project]:https://github.com/lisa1501/airbnb-clone
 
 
