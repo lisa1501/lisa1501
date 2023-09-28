@@ -53,6 +53,6 @@
 [portfolio]: https://halisa-portfolio.netlify.app/
 [leetcode]: https://leetcode.com/Halisai/
 [COMPLETE INTRO TO REALTIME]: https://btholt.github.io/complete-intro-to-realtime/
-[project]:https://github.com/lisa1501/airbnb-clone
+[project]:https://github.com/lisa1501/Discord-Clone
 
 
