@@ -3,7 +3,7 @@
 
 
 ## I'm a full stack developer!
-- ✍ You can find my projects here [portfolio]]
+- ✍ You can find my projects here [portfolio]
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 
