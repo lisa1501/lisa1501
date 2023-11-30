@@ -1,6 +1,5 @@
 ### Hello World, I'm Halisa(She/Her) 👋🏽
- <img align="right" alt="GIF" src="https://github.com/lisa1501/lisa1501/blob/main/images/Screenshot%202023-02-15%20at%2010.01.47%20PM.png" />
-
+ 
 
 ## I'm a full stack developer!
 - ✍ You can find my projects here [portfolio]
