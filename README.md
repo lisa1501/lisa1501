@@ -47,7 +47,7 @@
 
 [website]: https://halisa-personal-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/lisa-s-a155a5202/
-[portfolio]: https://halisa-portfolio.netlify.app/
+
 [leetcode]: https://leetcode.com/Halisai/
 [COMPLETE INTRO TO REALTIME]: https://btholt.github.io/complete-intro-to-realtime/
 [project]:https://github.com/lisa1501/Discord-Clone
